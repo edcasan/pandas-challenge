@@ -13,7 +13,6 @@ The final report include each of the following:
 
 ![image](https://user-images.githubusercontent.com/63757160/109452774-1bd8e300-7a16-11eb-9e5a-2c10acc7887a.png)
 
-
 ![image](https://user-images.githubusercontent.com/63757160/109452564-9ead6e00-7a15-11eb-921b-b0fb837bf2a5.png)
 
 ![image](https://user-images.githubusercontent.com/63757160/109452589-b4bb2e80-7a15-11eb-936a-25710551a4d8.png)
